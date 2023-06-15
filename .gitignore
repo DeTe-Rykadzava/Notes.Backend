@@ -1,0 +1,8 @@
+/Core/Notes.Application/bin/
+/Core/Notes.Application/obj/
+/Core/Notes.Domain/bin/
+/Core/Notes.Domain/obj/
+/Infrastructure/Notes.Persistence/bin/
+/Infrastructure/Notes.Persistence/obj/
+/Presentation/Notes.WebAPI/bin/
+/Presentation/Notes.WebAPI/obj/
