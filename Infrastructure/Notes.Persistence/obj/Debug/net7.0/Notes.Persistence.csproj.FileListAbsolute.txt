@@ -1,0 +1,17 @@
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Persistence.deps.json
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Persistence.dll
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Persistence.pdb
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Application.dll
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Domain.dll
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Application.pdb
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/bin/Debug/net7.0/Notes.Domain.pdb
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.csproj.AssemblyReference.cache
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.AssemblyInfoInputs.cache
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.AssemblyInfo.cs
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.csproj.CoreCompileInputs.cache
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.csproj.CopyComplete
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.dll
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/refint/Notes.Persistence.dll
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/Notes.Persistence.pdb
+/home/dete/RiderProjects/Notes.Backend/Infrastructure/Notes.Persistence/obj/Debug/net7.0/ref/Notes.Persistence.dll

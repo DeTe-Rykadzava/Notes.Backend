@@ -1,0 +1,12 @@
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/bin/Debug/net7.0/Notes.Domain.deps.json
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/bin/Debug/net7.0/Notes.Domain.dll
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/bin/Debug/net7.0/Notes.Domain.pdb
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.csproj.AssemblyReference.cache
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.AssemblyInfoInputs.cache
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.AssemblyInfo.cs
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.csproj.CoreCompileInputs.cache
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.dll
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/refint/Notes.Domain.dll
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/Notes.Domain.pdb
+/home/dete/RiderProjects/Notes.Backend/Core/Notes.Domain/obj/Debug/net7.0/ref/Notes.Domain.dll
