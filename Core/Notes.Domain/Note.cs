@@ -1,4 +1,6 @@
-﻿namespace Notes.Domain;
+﻿using System;
+
+namespace Notes.Domain;
 
 public class Note
 {

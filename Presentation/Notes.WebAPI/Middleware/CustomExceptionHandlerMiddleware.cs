@@ -1,6 +1,9 @@
+using System;
 using System.Net;
 using System.Text.Json;
+using System.Threading.Tasks;
 using FluentValidation;
+using Microsoft.AspNetCore.Http;
 using Notes.Application.Common.Exceptions;
 
 namespace Notes.WebAPI.Middleware;
