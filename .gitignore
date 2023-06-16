@@ -2,9 +2,16 @@
 /Core/Notes.Application/obj/
 /Core/Notes.Domain/bin/
 /Core/Notes.Domain/obj/
+<<<<<<< HEAD
 /Infrastructure/Notes.Persistence/obj/
 /Infrastructure/Notes.Persistence/bin/
 /Presentation/Notes.WebAPI/bin/
 /Presentation/Notes.WebAPI/obj/
 /Tests/Notes.Tests/bin/
 /Tests/Notes.Tests/obj/
+=======
+/Infrastructure/Notes.Persistence/bin/
+/Infrastructure/Notes.Persistence/obj/
+/Presentation/Notes.WebAPI/bin/
+/Presentation/Notes.WebAPI/obj/
+>>>>>>> origin/master

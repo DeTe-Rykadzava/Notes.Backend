@@ -1,3 +1,4 @@
+using System;
 using FluentValidation;
 
 namespace Notes.Application.Notes.Queries.GetNoteList;
