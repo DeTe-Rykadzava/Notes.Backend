@@ -1,0 +1,10 @@
+/Core/Notes.Application/bin/
+/Core/Notes.Application/obj/
+/Core/Notes.Domain/bin/
+/Core/Notes.Domain/obj/
+/Infrastructure/Notes.Persistence/obj/
+/Infrastructure/Notes.Persistence/bin/
+/Presentation/Notes.WebAPI/bin/
+/Presentation/Notes.WebAPI/obj/
+/Tests/Notes.Tests/bin/
+/Tests/Notes.Tests/obj/
