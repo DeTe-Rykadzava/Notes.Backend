@@ -86,6 +86,7 @@ public class NoteController : BaseController
     /// <returns>Returns id (guid)</returns>
     /// <response code="201">Success</response>
     /// <response code="401">If the user is unauthorized</response>
+    /// <response code="400">Not all field is filled</response>
     [HttpPost(Name = "CreateNote")]
     [Authorize]
     [ProducesResponseType(StatusCodes.Status201Created)]

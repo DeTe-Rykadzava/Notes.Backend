@@ -64,7 +64,7 @@ builder.Services.AddAuthentication(cfg =>
 })
     .AddJwtBearer("Bearer", opt =>
     {
-        opt.Authority = "http://localhost:5103/";
+        opt.Authority = "https://localhost:7085/";
         opt.Audience = "NotesWebAPI";
         opt.RequireHttpsMetadata = false;
         

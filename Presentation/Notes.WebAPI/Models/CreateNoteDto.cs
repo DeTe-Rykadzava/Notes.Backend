@@ -7,9 +7,9 @@ namespace Notes.WebAPI.Models;
 
 public class CreateNoteDto : IMapWith<CreateNoteCommand>
 {
-    [Required]
-    public string Title { get; set; }
-    public string Details { get; set; }
+    [Required] public string Title { get; set; } = null!;
+
+    public string? Details { get; set; } = null;
     
     public void Mapping(Profile profile)
     {
